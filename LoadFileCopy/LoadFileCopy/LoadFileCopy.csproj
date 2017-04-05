@@ -7,9 +7,9 @@
     <ProjectGuid>{C58484FF-1AF7-49D7-BEB4-B59343B2E7D5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FileCopy</RootNamespace>
-    <AssemblyName>FileCopy</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <RootNamespace>LoadFileCopy</RootNamespace>
+    <AssemblyName>LoadFileCopy</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>

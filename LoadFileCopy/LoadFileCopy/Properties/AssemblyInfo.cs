@@ -1,15 +1,34 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+﻿/*
+    LoadFileCopy is a software to copy file by taking the source location from a text file.
+    Copyright © 2013 BipinBaglung
+
+    This file is a part of LoadFileCopy
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.If not, see<http://www.gnu.org/licenses/>.
+*/
+
+using System.Reflection;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("File Copy")]
-[assembly: AssemblyDescription("Copies files from a load file to destination folder")]
+[assembly: AssemblyTitle("LoadFileCopy")]
+[assembly: AssemblyDescription("LoadFileCopy is a software to copy file by taking the source location from a text file.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("BipinBaglung")]
-[assembly: AssemblyProduct("FileCopy")]
+[assembly: AssemblyProduct("LoadFileCopy")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
